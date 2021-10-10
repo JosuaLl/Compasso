@@ -3,7 +3,7 @@
 <h2>Steps to Setup</h2>
 
 <h3>1. Clone repository</h3>
-<p>git clone https://github.com/JorgeSevilla/spring-boot-test.git
+<p>git clone https://github.com/JosuaLl/Compasso.git
 
 <h3>2. Run app with maven</h3> 
 	<ul>
