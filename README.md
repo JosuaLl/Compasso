@@ -1,4 +1,4 @@
-<h1>Spring Boot upload file and read information</h1>
+<h1>CRUD Product catalogs</h1>
 
 <h2>Steps to Setup</h2>
 
